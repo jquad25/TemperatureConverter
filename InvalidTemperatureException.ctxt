@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InvalidTemperatureException
+comment0.text=\n\ InvalidTemperatureException\ is\ an\ exception\ that\n\ gets\ thrown\ if\ the\ user\ tries\ to\ store\ a\n\ temperature\ below\ absolute\ zero.\n\n\ @author\ Ursula\ Jordan\ Aquadro\n\ @version\ v1.0\n
+comment1.params=
+comment1.target=InvalidTemperatureException()
+comment1.text=\ Default\ constructor\ for\ InvalidTemperatureException\ objects.\n\ It\ creates\ an\ InvalidTemperatureException\ with\ a\ null\ detail\n\ message.\n
+comment2.params=message
+comment2.target=InvalidTemperatureException(java.lang.String)
+comment2.text=Constructor\ for\ InvalidTemperatureException\ objects.\n\ It\ creates\ an\ InvalidTemperatureException\ object\ with\ the\n\ specified\ detail\ message.\n
+numComments=3
